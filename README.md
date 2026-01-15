@@ -52,10 +52,15 @@ Projeto desenvolvido para **prática de HTML e CSS** e para **composição de po
 projeto-portal-noticia/
 │
 ├── index.html
-├── css/
-│   └── style.css
+├── styles/
+│   └── index.css
+│   └── global.css
+│   └── header.css
+│   └── sections.css
+│   └── utility.css
 ├── assets/
 │   ├── images/
 │   └── icons/
+│   └── Logo.png
 ├── preview_portal_noticias.gif
 └── README.md
